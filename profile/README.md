@@ -1,7 +1,6 @@
 ![CCRAFT logo](/assets/images/Logo_White_letters.png)
 
-# CCRAFT
-Thin-Film Lithium Niobate Photonic Chip Foundry
+# Thin-Film Lithium Niobate Photonic Chip Foundry
 
 ## Your Partner for Scalable TFLN Photonic Chips
 CCRAFT is a Swiss-based photonic chip foundry committed to advancing high-performance thin-film lithium niobate (TFLN) technology for scalable, high-volume manufacturing. Built on over six years of pioneering R&D at CSEM (the Swiss Center for Electronics and Microtechnology), we deliver rigorously tested and proven integrated photonic solutions from our in-house facility.

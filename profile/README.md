@@ -1,4 +1,4 @@
-![CCRAFT logo](/assets/images/Logo_White letters.png)
+![CCRAFT logo](/assets/images/Logo_White_letters.png)
 
 # CCRAFT
 Thin-Film Lithium Niobate Photonic Chip Foundry
